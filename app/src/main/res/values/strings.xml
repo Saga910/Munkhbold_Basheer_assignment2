@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Munkhbold_Basheer</string>
+    <string name="saga">Khurkhartsaga Munkhbold(A01182916)</string>
+    <string name="fadi">Fadi Basheer(A)</string>
+    <string name="month">Case by month and year</string>
+    <string name="ha">Cases by health authorities</string>
+    <string name="gender">Cases by gender</string>
+    <string name="age">Cases by age group</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="regs">Register</string>
+    <string name="year">Year</string>
+    <string name="m">Month</string>
 </resources>

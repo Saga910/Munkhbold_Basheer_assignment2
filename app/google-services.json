@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "818177295803",
+    "firebase_url": "https://assignment2-saga-fadi-default-rtdb.firebaseio.com",
+    "project_id": "assignment2-saga-fadi",
+    "storage_bucket": "assignment2-saga-fadi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818177295803:android:35482f9ffddb2f4357309e",
+        "android_client_info": {
+          "package_name": "ca.bcit.assignment2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818177295803-1t7i1rocqskooflngmu4ob50t30e850o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvHUyhcu__Y67bKIuRgGCBahxxL54W7Tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818177295803-1t7i1rocqskooflngmu4ob50t30e850o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
